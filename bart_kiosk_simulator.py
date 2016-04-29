@@ -6,4 +6,4 @@ def load_card(num1, num5, num10, num20):
     total = a + b + c + d
     return total
 
-print load_card(0,0,0,9)
+print load_card(10,0,0,9)
